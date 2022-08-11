@@ -7,6 +7,8 @@ namespace ConsoleAppDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("today is thursday");
+            Console.WriteLine("Hello Vinay");
         }
     }
 }
