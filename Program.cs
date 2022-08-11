@@ -9,6 +9,7 @@ namespace ConsoleAppDemo
             Console.WriteLine("Hello World!");
             Console.WriteLine("today is thursday");
             Console.WriteLine("Hello Vinay");
+            Console.WriteLine("Commited Success");
         }
     }
 }
